@@ -1,4 +1,6 @@
-## How to install airflow
+## How to Setup
+
+Run command following below
 
 - mkdir ./dags ./logs ./plugins
 echo -e "AIRFLOW_UID=$(id -u)\nAIRFLOW_GID=0" > .env
